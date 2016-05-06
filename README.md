@@ -1,4 +1,3 @@
- ## PROVA PRATICA DE INTODUÇÃO À INFORMATICA
- 
- ## ALUNOS
-    OTAVIO QUEIROZ E HIGOR LUIZ
+Prova Prática de Introdução à Informática
+
+Otávio Queiroz  e  Higor Luiz
